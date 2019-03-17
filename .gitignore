@@ -1,0 +1,6 @@
+        build.xml
+        build/
+        dist/
+        nbproject/
+        src/
+        web/META-INF/
